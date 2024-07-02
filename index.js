@@ -5,11 +5,11 @@
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
+  GIT : https://github.com/ValidZone/ticket-system-validzone
   DISCORD SERVER : https://discord.gg/pGBpqT8nCz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  YOUTUBE :
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by VALID FRAMEWORK
  * **********************************************
  */
 
@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to VFW: http://localhost:${port}`);
+  console.log(`🔗 Powered By VFW`);
 });
 
 
-const statusMessages = ["SHOP A VALIDZONE","dsc.gg/validzone"];
+const statusMessages = ["SHOP AT VALIDZONE","https://dsc.gg/validzone"];
 
 
 let currentIndex = 0;
@@ -92,8 +92,8 @@ function updateStatusAndSendMessages() {
 
 client.once('ready', () => {
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✅ Bot is ready as ${client.user.tag}`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨HAPPY NEW YEAR MY DEAR FAMILY`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️WELCOME TO 2024`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨SHOP AT VALIDZONE`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️https://dsc.gg/validzone`);
   updateStatusAndSendMessages();
 
   setInterval(() => {
@@ -110,10 +110,10 @@ login();
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
+GIT : https://github.com/ValidZone/ticket-system-validzone
   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  YOUTUBE : 
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by VALID FRAMEWORK
  * **********************************************
  */
