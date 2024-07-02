@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SHOP AT VALIDZONE","https://dsc.gg/validzone"];
+const statusMessages = ["SHOP AT VALIDZONE","https://validzone.xyz"];
 
 
 let currentIndex = 0;
